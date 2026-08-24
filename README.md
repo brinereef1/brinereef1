@@ -6,23 +6,35 @@
 01010111 01100101 01101100 01100011 01101111 01101101 01100101
 10111011 01000111 01100001 01101101 01100101 01000100 01100101
 01110110 01100101 01101100 01101111 01110000 01100101 01110010
-10111011 01010101 01101110 01101001 01110100 01111001 01000111
-01100101 01100101 01101011 10111011 01010000 01101111 01101111
+10111011 01010000 01100001 01110011 01110011 01101001 01101111
+01101110 10111011 01000011 01101111 01100100 01100101
 ```
 
 </div>
 
+---
+
 <div align="center">
-  <img src="profile-photo.png" alt="Brine Santra" width="280" height="340" style="border-radius: 15px; border: 3px solid #00ff00; box-shadow: 0 0 20px #00ff0080;" />
-  
-  # **BRINE SANTRA**
-  
-  ## 🎮 Unity Game Developer · Gameplay Programmer
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-brinereef1-00ff00?style=flat-square&logo=github)](https://github.com/brinereef1)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-brine--santra-00ff00?style=flat-square&logo=linkedin)](https://linkedin.com/in/brine-santra)
-  [![Email](https://img.shields.io/badge/Email-santra.brine2020%40gmail.com-00ff00?style=flat-square&logo=gmail)](mailto:santra.brine2020@gmail.com)
-  
+
+```
+01001000 01000101 01000001 01000100      11000011 EYE 11000011
+10110000 01000100 01000101 01010110      10100101 VISION 10100101
+01010 01010101 10101 01010101 01010      
+10101 01010101 01010 01010101 10101      01010101 SMILE 01010101
+                                          10101010 HAPPY 10101010
+01000100 01000101 01010110 01000101      
+10101010 01010101 10101010 01010101      
+01001000 01010101 01001101 01000001
+```
+
+# **BRINE SANTRA**
+
+## 🎮 Unity Game Developer · Gameplay Programmer
+
+[![GitHub](https://img.shields.io/badge/GitHub-brinereef1-00ff00?style=flat-square&logo=github)](https://github.com/brinereef1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brine--santra-00ff00?style=flat-square&logo=linkedin)](https://linkedin.com/in/brine-santra)
+[![Email](https://img.shields.io/badge/Email-santra.brine2020%40gmail.com-00ff00?style=flat-square&logo=gmail)](mailto:santra.brine2020@gmail.com)
+
 </div>
 
 ---
@@ -145,6 +157,10 @@ I'm always open to collaborating on game development projects, discussing game d
 [![LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=social&logo=linkedin)](https://linkedin.com/in/brine-santra)
 
 ---
+
+```
+< BINARY_PROFILE_v1.0 >
+```
 
 <sub>🎮 Made with ❤️ by a passionate game developer</sub>
 
