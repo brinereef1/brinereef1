@@ -1,119 +1,302 @@
-# Welcome to Brine Santra's Profile
+# <div align="center">
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <div style="position: relative; display: flex; justify-content: center; align-items: center;">
-          <!-- Binary Code Background -->
-          <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; font-size: 10px; color: #00ff0030; font-family: 'Courier New', monospace; overflow: hidden; line-height: 1.2; writing-mode: horizontal-tb; white-space: pre-wrap; word-wrap: break-word; z-index: 1;">
-01010111 01100101 01101100 01100011 01101111 01101101 01100101
-10111011 01000111 01100001 01101101 01100101 01000100 01100101
-01110110 01100101 01101100 01101111 01110000 01100101 01110010
-00110000 00110001 00110000 00110001 00110000 00110001 00110001
-01000111 01100001 01101101 01101001 01101110 01100111 10110000
-10111011 01010000 01110010 01101111 01100111 01100101 01110011
-01110011 00110000 00110001 00110001 00110000 00110000 00110001
-01010101 01101110 01101001 01110100 01111001 10110000 10111011
-01000111 01100001 01101101 01100101 10111011 01000001 01001001
-00110000 00110001 00110000 00110001 00110000 00110000 00110000
-01010011 01111001 01110011 01110100 01100101 01101101 01110011
-10111011 01000101 01101001 01100001 10110011 01000100 01100101
-          </div>
-          
-          <!-- Photo with styling -->
-          <img src="profile-photo.png" alt="Brine Santra" style="width: 280px; height: 340px; border-radius: 15px; border: 3px solid #00ff00; box-shadow: 0 0 20px #00ff0080; position: relative; z-index: 2; object-fit: cover;" />
-        </div>
-      </td>
-      
-      <td width="50%" style="vertical-align: top; padding-left: 30px;">
-        <h1 style="font-size: 2.5em; margin: 0; color: #00ff00; text-shadow: 0 0 10px #00ff0080;">
-          BRINE SANTRA
-        </h1>
-        
-        <h3 style="color: #888; font-size: 1.2em; margin: 5px 0 20px 0;">
-          🎮 Unity Game Developer · Gameplay Programmer
-        </h3>
-        
-        <p style="font-size: 1em; line-height: 1.6; color: #ccc; margin: 20px 0;">
-          <strong>Game development enthusiast</strong> with <strong>1+ years of professional experience</strong> shipping commercially released 2D games. Specialized in <strong>gameplay programming</strong>, <strong>AI systems</strong>, and <strong>performance optimization</strong>.
-        </p>
-        
-        <p style="font-size: 0.95em; line-height: 1.6; color: #aaa;">
-          Currently crafting immersive game experiences at <strong>Webhibe Technologies</strong>, with expertise in clean architecture, maintainable code, and production-ready features delivered in agile environments.
-        </p>
-        
-        <div style="margin: 25px 0;">
-          <h4 style="color: #00ff00; font-size: 0.9em; text-transform: uppercase; letter-spacing: 2px;">⚡ Core Expertise</h4>
-          <p style="color: #ccc; font-size: 0.9em; line-height: 1.8;">
-            • <strong>Game Engines:</strong> Unity, C#, .NET Framework<br>
-            • <strong>Systems:</strong> Gameplay Programming, OOP, State Machines, Event-Driven Architecture<br>
-            • <strong>AI & Multiplayer:</strong> AI Decision-Making, Enemy Behavior Trees, Multiplayer Logic<br>
-            • <strong>Optimization:</strong> Performance Profiling, Debugging, Procedural Generation<br>
-            • <strong>Tools:</strong> Git/GitHub, Agile/Scrum, Code Reviews
-          </p>
-        </div>
-        
-        <div style="margin: 25px 0;">
-          <h4 style="color: #00ff00; font-size: 0.9em; text-transform: uppercase; letter-spacing: 2px;">🎯 Featured Work</h4>
-          <p style="color: #ccc; font-size: 0.9em; line-height: 1.8;">
-            ✦ <strong>Neon-Edge:</strong> AI-driven deck-building card battler (In Dev)<br>
-            ✦ <strong>The Living Hollow:</strong> First-person psychological horror (In Dev)<br>
-            ✦ <strong>Snake 3D:</strong> Modern 3D gameplay with persistent scoring<br>
-            ✦ <strong>Street Car:</strong> 2D endless runner with dynamic systems
-          </p>
-        </div>
-        
-        <div style="margin-top: 30px; display: flex; gap: 15px;">
-          <a href="https://github.com/brinereef1" style="display: inline-block; padding: 10px 20px; background-color: #00ff00; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 0.9em;">
-            GitHub
-          </a>
-          <a href="https://linkedin.com/in/brine-santra" style="display: inline-block; padding: 10px 20px; border: 2px solid #00ff00; color: #00ff00; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 0.9em;">
-            LinkedIn
-          </a>
-          <a href="mailto:santra.brine2020@gmail.com" style="display: inline-block; padding: 10px 20px; border: 2px solid #00ff00; color: #00ff00; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 0.9em;">
-            Email
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+# 
 
----
+# \# 👋 Welcome to My Profile!
 
-## 📊 Quick Stats
-- **Experience:** 1+ Years Professional Game Development
-- **Shipped Titles:** Snake & Ladder (AI + Multiplayer), Word Search, PlayNest Hub
-- **Languages:** English (Professional), Hindi (Native), Bengali (Native)
-- **Education:** BCA (IGNOU - Pursuing) | Game Dev Diploma (Red Apple Learning - Completed)
+# 
 
-## 🛠️ Tech Stack
-```
-Game Development    │ Unity, C#, .NET Framework, ScriptableObjects
-AI & Logic          │ Behavior Trees, State Machines, Decision Systems
-Architecture        │ OOP, Event-Driven Architecture, Design Patterns
-Multiplayer         │ Turn Management, Synchronization, Game Rules
-Tools               │ Git, GitHub, Agile/Scrum, VS Code, JetBrains Rider
-```
+# ```
 
-## 🎮 Currently Exploring
-- **Game AI** - Advanced decision-making systems
-- **Procedural Generation** - Dynamic content creation
-- **Horror Game Design** - Atmospheric experiences
-- **Performance Optimization** - Scalability & efficiency
-- **Card/Strategy Games** - Complex systems design
+# 01010111 01100101 01101100 01100011 01101111 01101101 01100101
 
----
+# 10111011 01000111 01100001 01101101 01100101 01000100 01100101
 
-<div align="center">
-  <p style="color: #888; font-size: 0.9em; margin-top: 40px;">
-    💬 Let's collaborate on game development projects! Feel free to reach out.
-  </p>
-</div>
+# 01110110 01100101 01101100 01101111 01110000 01100101 01110010
 
----
+# 10111011 01010101 01101110 01101001 01110100 01111001 01000111
 
-**📍 Based in:** Serampore, West Bengal, India  
-**📧 Email:** santra.brine2020@gmail.com  
-**☎️ Phone:** +91 91233 01439
+# 01100101 01100101 01101011 10111011 01010000 01101111 01101111
+
+# ```
+
+# 
+
+# </div>
+
+# 
+
+# <div align="center">
+
+# &#x20; <img src="profile-photo.png" alt="Brine Santra" width="280" height="340" style="border-radius: 15px; border: 3px solid #00ff00; box-shadow: 0 0 20px #00ff0080;" />
+
+# &#x20; 
+
+# &#x20; # \*\*BRINE SANTRA\*\*
+
+# &#x20; 
+
+# &#x20; ## 🎮 Unity Game Developer · Gameplay Programmer
+
+# &#x20; 
+
+# &#x20; \[!\[GitHub](https://img.shields.io/badge/GitHub-brinereef1-00ff00?style=flat-square\&logo=github)](https://github.com/brinereef1)
+
+# &#x20; \[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-brine--santra-00ff00?style=flat-square\&logo=linkedin)](https://linkedin.com/in/brine-santra)
+
+# &#x20; \[!\[Email](https://img.shields.io/badge/Email-santra.brine2020%40gmail.com-00ff00?style=flat-square\&logo=gmail)](mailto:santra.brine2020@gmail.com)
+
+# &#x20; 
+
+# </div>
+
+# 
+
+# \---
+
+# 
+
+# \## 📌 About Me
+
+# 
+
+# > \*\*Game development enthusiast\*\* with \*\*1+ years of professional experience\*\* shipping commercially released 2D games. Specialized in \*\*gameplay programming\*\*, \*\*AI systems\*\*, and \*\*performance optimization\*\*.
+
+# 
+
+# Currently crafting immersive game experiences at \*\*Webhibe Technologies\*\*, with expertise in clean architecture, maintainable code, and production-ready features delivered in agile environments.
+
+# 
+
+# \- 📍 \*\*Location:\*\* Serampore, West Bengal, India
+
+# \- 📧 \*\*Email:\*\* santra.brine2020@gmail.com
+
+# \- ☎️ \*\*Phone:\*\* +91 91233 01439
+
+# \- 🎓 \*\*Education:\*\* BCA (IGNOU - Pursuing) | Game Dev Diploma (Red Apple Learning - Completed)
+
+# 
+
+# \---
+
+# 
+
+# \## ⚡ Core Skills
+
+# 
+
+# \### \*\*Game Engines \& Languages\*\*
+
+# ```
+
+# Unity   │ C#   │ .NET Framework   │ ScriptableObjects
+
+# ```
+
+# 
+
+# \### \*\*Gameplay \& Systems\*\*
+
+# ```
+
+# Gameplay Programming   │   OOP   │   State Machines   │   Event-Driven Architecture
+
+# ```
+
+# 
+
+# \### \*\*AI \& Multiplayer\*\*
+
+# ```
+
+# AI Decision-Making   │   Enemy Behavior Trees   │   Opponent AI   │   Multiplayer Logic
+
+# ```
+
+# 
+
+# \### \*\*UI \& UX\*\*
+
+# ```
+
+# Unity UI (UGUI)   │   Menu Systems   │   HUD Design   │   User Flow
+
+# ```
+
+# 
+
+# \### \*\*Tools \& Workflow\*\*
+
+# ```
+
+# Git / GitHub   │   Agile / Scrum   │   Code Reviews   │   Debugging   │   Profiling
+
+# ```
+
+# 
+
+# \---
+
+# 
+
+# \## 🎯 Featured Projects
+
+# 
+
+# | Project | Status | Description |
+
+# |---------|--------|-------------|
+
+# | \*\*Neon-Edge\*\* | 🔨 In Development | Deck-building card battler with AI-driven enemy decision-making, ScriptableObject architecture, and ability trees |
+
+# | \*\*The Living Hollow\*\* | 🔨 In Development | First-person psychological horror with exploration, puzzle-solving, dynamic AI, and atmospheric design |
+
+# | \*\*Snake 3D\*\* | ✅ Completed | Modern 3D interpretation with procedural spawning, progressive difficulty, and persistent scoring |
+
+# | \*\*Street Car\*\* | ✅ Completed | 2D endless runner with obstacle avoidance, collectibles, and score-based progression |
+
+# | \*\*Snake \& Ladder\*\* | ✅ Shipped | AI opponent + multiplayer modes with full game logic and turn management |
+
+# | \*\*Word Search\*\* | ✅ Shipped | Procedurally generated puzzles with word placement algorithms |
+
+# | \*\*PlayNest Hub\*\* | ✅ Shipped | Mini-game collection: MatchLink, Pixel Art, Number Pop |
+
+# 
+
+# \---
+
+# 
+
+# \## 🛠️ Tech Stack
+
+# 
+
+# ```
+
+# Game Development    │ Unity, C#, .NET Framework, ScriptableObjects, Prefabs
+
+# AI \& Logic          │ Behavior Trees, State Machines, Decision Systems, Pathfinding
+
+# Architecture        │ OOP, Event-Driven, Design Patterns, Clean Code
+
+# Multiplayer         │ Turn Management, Synchronization, Game Rules Engine
+
+# Optimization        │ Profiling, Memory Management, Rendering Optimization
+
+# Tools               │ Git, GitHub, VS Code, JetBrains Rider, Agile/Scrum
+
+# ```
+
+# 
+
+# \---
+
+# 
+
+# \## 🎮 Currently Exploring
+
+# 
+
+# \- 🤖 \*\*Game AI\*\* - Advanced decision-making and behavior systems
+
+# \- 🌍 \*\*Procedural Generation\*\* - Dynamic content creation \& world building
+
+# \- 😱 \*\*Horror Game Design\*\* - Atmospheric experiences and psychological tension
+
+# \- ⚙️ \*\*Performance Optimization\*\* - Scalability and frame rate perfection
+
+# \- 🃏 \*\*Card/Strategy Games\*\* - Complex systems and balance design
+
+# 
+
+# \---
+
+# 
+
+# \## 📊 Quick Stats
+
+# 
+
+# <div align="center">
+
+# 
+
+# | Metric | Value |
+
+# |--------|-------|
+
+# | \*\*Experience\*\* | 1+ Years Professional Game Development |
+
+# | \*\*Shipped Titles\*\* | 6+ Commercial Projects |
+
+# | \*\*Languages\*\* | English (Professional), Hindi (Native), Bengali (Native) |
+
+# | \*\*Current Role\*\* | Unity Game Developer at Webhibe Technologies |
+
+# 
+
+# </div>
+
+# 
+
+# \---
+
+# 
+
+# \## 🌟 What I Do Best
+
+# 
+
+# ✦ \*\*Clean, Maintainable Code\*\* - Object-oriented design principles with scalable architecture  
+
+# ✦ \*\*Gameplay Systems\*\* - Complex mechanics, AI, and state management  
+
+# ✦ \*\*Performance Tuning\*\* - Optimization and profiling for smooth gameplay  
+
+# ✦ \*\*Agile Collaboration\*\* - Code reviews, sprint planning, and team communication  
+
+# ✦ \*\*Production-Ready Delivery\*\* - Shipping features on schedule in professional environments  
+
+# 
+
+# \---
+
+# 
+
+# <div align="center">
+
+# 
+
+# \## 💬 Let's Connect!
+
+# 
+
+# I'm always open to collaborating on game development projects, discussing game design, or exploring new gameplay mechanics.
+
+# 
+
+# \*\*Feel free to reach out and let's create something awesome together!\*\*
+
+# 
+
+# <br>
+
+# 
+
+# \[!\[GitHub followers](https://img.shields.io/github/followers/brinereef1?style=social)](https://github.com/brinereef1)
+
+# \[!\[LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=social\&logo=linkedin)](https://linkedin.com/in/brine-santra)
+
+# 
+
+# \---
+
+# 
+
+# <sub>🎮 Made with ❤️ by a passionate game developer</sub>
+
+# 
+
+# </div>
+
