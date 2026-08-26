@@ -28,7 +28,6 @@ Currently crafting immersive game experiences at **Webhibe Technologies**, with 
 
 - 📍 **Location:** Serampore, West Bengal, India
 - 📧 **Email:** santra.brine2020@gmail.com
-- ☎️ **Phone:** +91 91233 01439
 - 🎓 **Education:** BCA (IGNOU - Pursuing) | Game Dev Diploma (Red Apple Learning - Completed)
 
 ---
